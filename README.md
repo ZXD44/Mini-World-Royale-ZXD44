@@ -1,5 +1,7 @@
 # 🎮 Mini World Royale - PC FPS Controller
 
+![Preview Screenshot](screen.png)
+
 > [!WARNING]
 > **Work In Progress (WIP):** โปรเจกต์นี้ยังอยู่ในการพัฒนาและอาจมีข้อผิดพลาด (Bugs) หรือฟีเจอร์ที่ยังไม่สมบูรณ์อยู่บ้าง กำลังทยอยปรับปรุงให้ดีขึ้นในอนาคตครับ!
 
