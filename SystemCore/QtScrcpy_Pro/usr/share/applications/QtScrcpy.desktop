@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=QtScrcpy
+Comment=Display and control Android devices via USB or over network
+Exec=QtScrcpy
+Icon=QtScrcpy
+Categories=Utility;
+Terminal=false
+StartupNotify=true

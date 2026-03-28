@@ -1,0 +1,130 @@
+{
+    "switchKey": "Key_Tab",
+    "mouseMoveMap": {
+        "startPos": {
+            "x": 0.5,
+            "y": 0.5
+        },
+        "speedRatio": 6,
+        "speedRatioX": 3.5,
+        "speedRatioY": 3.5,
+        "smallEyes": {
+            "comment": "Free Look - มองรอบๆ (ค้าง Alt)",
+            "type": "KMT_CLICK",
+            "key": "Key_Alt",
+            "pos": {
+                "x": 0.5,
+                "y": 0.5
+            },
+            "switchMap": false
+        }
+    },
+    "keyMapNodes": [
+        {
+            "comment": "WASD Joystick - จอยเดิน (2800x1260)",
+            "type": "KMT_STEER_WHEEL",
+            "centerPos": {
+                "x": 0.1344,
+                "y": 0.7544
+            },
+            "leftOffset": 0.065,
+            "rightOffset": 0.065,
+            "upOffset": 0.0972,
+            "downOffset": 0.0972,
+            "leftKey": "Key_A",
+            "rightKey": "Key_D",
+            "upKey": "Key_W",
+            "downKey": "Key_S"
+        },
+        {
+            "comment": "Fire - ยิง (คลิกซ้าย)",
+            "type": "KMT_CLICK",
+            "key": "LeftButton",
+            "pos": {
+                "x": 0.8888,
+                "y": 0.7444
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "ADS - เล็ง (คลิกขวา)",
+            "type": "KMT_CLICK",
+            "key": "RightButton",
+            "pos": {
+                "x": 0.9516,
+                "y": 0.5456
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "Jump - กระโดด (Space)",
+            "type": "KMT_CLICK",
+            "key": "Key_Space",
+            "pos": {
+                "x": 0.9316,
+                "y": 0.6444
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "Reload - รีโหลด (R)",
+            "type": "KMT_CLICK",
+            "key": "Key_R",
+            "pos": {
+                "x": 0.8316,
+                "y": 0.6844
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "Crouch - นั่ง/ยอง (C)",
+            "type": "KMT_CLICK",
+            "key": "Key_C",
+            "pos": {
+                "x": 0.9416,
+                "y": 0.8244
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "Prone - นอน (Ctrl)",
+            "type": "KMT_CLICK",
+            "key": "Key_Control",
+            "pos": {
+                "x": 0.8816,
+                "y": 0.8644
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "Weapon 1 - อาวุธหลัก (1)",
+            "type": "KMT_CLICK",
+            "key": "Key_1",
+            "pos": {
+                "x": 0.7344,
+                "y": 0.88
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "Weapon 2 - อาวุธรอง (2)",
+            "type": "KMT_CLICK",
+            "key": "Key_2",
+            "pos": {
+                "x": 0.7744,
+                "y": 0.88
+            },
+            "switchMap": false
+        },
+        {
+            "comment": "Heal - ใช้ยา (F)",
+            "type": "KMT_CLICK",
+            "key": "Key_F",
+            "pos": {
+                "x": 0.05,
+                "y": 0.50
+            },
+            "switchMap": false
+        }
+    ]
+}

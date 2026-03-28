@@ -1,0 +1,24 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary Files
+/tmp/
+*.log
+*.tmp
+/Trash/
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Project Specific (Sensitive/Local data)
+.gemini/
+.agent/
+.vscode/
+.idea/
+
+# Large Binary Files (Optional, but usually ignored in Git)
+# SystemCore/QtScrcpy_Pro/  # ถ้าคุณติดตั้งเองใหม่ตลอดแนะนำให้ ignore ไว้ แต่ถ้าเป็น Portable แนะนำให้ทิ้งไว้อย่างนี้
+**/scrcpy-server.jar

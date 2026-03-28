@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.github.barry-ran.QtScrcpy</id>
+  <name>QtScrcpy</name>
+  <summary>Display and control Android devices via USB or over network</summary>
+  <description>
+    <p>QtScrcpy supports displaying and controlling Android devices via USB or over network. It does NOT require root privileges.</p>
+  </description>
+  <provides>
+    <binary>QtScrcpy</binary>
+  </provides>
+  <launchable type="desktop-id">QtScrcpy.desktop</launchable>
+  <url type="homepage">https://github.com/barry-ran/QtScrcpy</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>Apache-2.0</project_license>
+</component>
